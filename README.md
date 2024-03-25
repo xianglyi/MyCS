@@ -1,0 +1,2 @@
+# MyCS
+C# freshman newbie
